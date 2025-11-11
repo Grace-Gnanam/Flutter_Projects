@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505309861345",
+    "project_id": "mathformulae-b9746",
+    "storage_bucket": "mathformulae-b9746.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505309861345:android:bfe9c7064b633aecc4eea0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjz3HpaZrPhH3XC1FLBWZuJV0JiyiEnYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

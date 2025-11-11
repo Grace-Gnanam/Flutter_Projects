@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991760797503",
+    "project_id": "exp8-test",
+    "storage_bucket": "exp8-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991760797503:android:60bd845a286f2752d34d8a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_8_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-_J6IjCYI27E-qy3eqyy2l-8U03L-0rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
